@@ -10,9 +10,9 @@
 
 |Model           |    Backbone     |    MS  | angle  | Lr schd |  mAP  | Download|
 |:--------------:| :-------------: | :-----:| :----: | :-----: | :----: |  :----------------------------------------------------------------------------: |
-|RetinaNet+SDDLA |    R-101-FPN    |   -    |  le135 |  1x     |  73.35 | [model]()     |
-|RetinaNet+SDDLA |    R-101-FPN    |   √    |  le135 |  1x     |  79.10 | [model]()     |
-|S2A-Net+SDDLA   |    R-101-FPN    |   √    |  le135 |  1x     |  79.92 | [model](result/log/dota_s2anet_r101_ours_ms.log)     |
+|RetinaNet+SDDLA |    R-101-FPN    |   -    |  le135 |  1x     |  73.35 | [log]() [model]()     |
+|RetinaNet+SDDLA |    R-101-FPN    |   √    |  le135 |  1x     |  79.10 | [log]() [model]()     |
+|S2A-Net+SDDLA   |    R-101-FPN    |   √    |  le135 |  1x     |  79.92 | [log](result/log/dota_s2anet_r101_ours_ms.log)  [model]()  |
 
 ## Preparations
 Note: mmcv>=1.3.17, <=1.8.0
