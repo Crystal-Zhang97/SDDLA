@@ -1,10 +1,13 @@
 # SDDLA
 ### Title:Shape-Dependent Dynamic Label Assignment for Oriented Remote Sensing Object Detection
+
 <p align="center"> <img src="overview.png" width="100%"></p>
 
 
 ## Results
+
 1. DOTA_1.0
+
 |Model           |    Backbone     |    MS  | angle  | Lr schd |  mAP  | Download|
 |:--------------:| :-------------: | :-----:| :----: | :-----: | :----: |  :----------------------------------------------------------------------------: |
 |RetinaNet+SDDLA |    R-101-FPN    |   -    |  le135 |  1x     |  73.35 | [model]()     |
