@@ -5,11 +5,11 @@
 
 ## Results
 1. DOTA_1.0
-|Model           |    Backbone     |    MS  |   mAP  | Download|
-|:--------------:| :-------------: | :-----:| :----: |  :---------------------------------------------------------------------------------------: |
-|RetinaNet+SDDLA |    R-101-FPN    |   -    |  73.35 | [model](https://pan.baidu.com/s/1aspypaz8a7QvFyUdDR986g)     |
-|RetinaNet+SDDLA |    R-101-FPN    |   √    |  79.10 | [model](https://pan.baidu.com/s/1VPsAB3Kb90IqJTluH6lFHw)     |
-|S2A-Net+SDDLA   |    R-101-FPN    |   √    |  79.92 | [model](https://pan.baidu.com/s/1VPsAB3Kb90IqJTluH6lFHw)     |
+|Model           |    Backbone     |    MS  | angle  | Lr schd |  mAP  | Download|
+|:--------------:| :-------------: | :-----:| :----: | :-----: | :----: |  :----------------------------------------------------------------------------: |
+|RetinaNet+SDDLA |    R-101-FPN    |   -    |  le135 |  1x     |  73.35 | [model]()     |
+|RetinaNet+SDDLA |    R-101-FPN    |   √    |  le135 |  1x     |  79.10 | [model]()     |
+|S2A-Net+SDDLA   |    R-101-FPN    |   √    |  le135 |  1x     |  79.92 | [model]()     |
 
 ## Preparations
 Note: mmcv>=1.3.17, <=1.8.0
